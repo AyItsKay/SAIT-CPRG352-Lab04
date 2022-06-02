@@ -33,7 +33,4 @@ public class Note implements Serializable {
         this.contents = contents;
     }
 
-    public int getContent() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
 }
